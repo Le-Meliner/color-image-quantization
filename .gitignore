@@ -1,0 +1,7 @@
+build/
+ppmhist
+quantif
+*.o
+IMAGES/*_quantif.ppm
+IMAGES/*_quantiff.ppm
+doc/
